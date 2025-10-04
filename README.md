@@ -11,6 +11,9 @@
 - **Faucet Hub:** [https://hub.testnet.mawari.net/](https://hub.testnet.mawari.net/)  
 - **Video Tutorial:** [YouTube Guide](https://www.youtube.com/watch?v=kFy-SlfkCi4&feature=youtu.be)
 
+## GET FAUCET HERE:
+- [https://hub.testnet.mawari.net/](https://hub.testnet.mawari.net/)
+
 ## MINT YOUR NFT - LICENSE 
 - **Mint Guardian NFT:** [https://testnet.mawari.net/mint](https://testnet.mawari.net/mint)  
 
