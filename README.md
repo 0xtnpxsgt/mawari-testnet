@@ -1,4 +1,5 @@
 # 🛡️ MAWARI NETWORK – Guardian Node Setup Guide
+- Credits to NTExhaust
 
 ### 📘 Official Documentation  
 [**Mawari Docs: Guardian Node (Testnet)**](https://docs.mawari.net/decentralized-infrastructure-offering-dio/operating-the-guardian-node-testnet)
