@@ -97,6 +97,7 @@ Then:
 5. ✅ Done — your Guardian Node is live!
 
 ---
+<img width="1363" height="870" alt="image" src="https://github.com/user-attachments/assets/a7313088-e619-422f-8ad9-d8177f39275b" />
 
 ### 📹 Video Tutorial
 🎥 [Watch Setup Walkthrough on YouTube](https://www.youtube.com/watch?v=kFy-SlfkCi4&feature=youtu.be)
