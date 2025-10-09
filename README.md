@@ -95,7 +95,7 @@ Send **1 test token** from your main wallet to your **burner wallet address**.
 Go to: [https://app.testnet.mawari.net/](https://app.testnet.mawari.net/)
 
 Then:
-1. Select your **Guardian IDs**  
+1. Select your all 3 **Guardian IDs**  
 2. Click **Delegate**  
 3. Enter your **burner address**  
 4. Confirm the transaction  
