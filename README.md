@@ -11,6 +11,10 @@
 - **Faucet Hub:** [https://hub.testnet.mawari.net/](https://hub.testnet.mawari.net/)  
 - **Video Tutorial:** [YouTube Guide](https://www.youtube.com/watch?v=kFy-SlfkCi4&feature=youtu.be)
 
+### LETS START
+
+## REMEMBER TO USE NEW WALLET - OR ADD NEW WALLET ON YOUR METAMASK
+
 ## GET FAUCET HERE:
 - [https://hub.testnet.mawari.net/](https://hub.testnet.mawari.net/)
 
