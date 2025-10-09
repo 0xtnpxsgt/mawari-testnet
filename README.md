@@ -19,6 +19,7 @@
 - [https://hub.testnet.mawari.net/](https://hub.testnet.mawari.net/)
 
 ## MINT YOUR NFT - LICENSE 
+- Mint 3 NFT
 - **Mint Guardian NFT:** [https://testnet.mawari.net/mint](https://testnet.mawari.net/mint)  
 
 <img width="1273" height="974" alt="image" src="https://github.com/user-attachments/assets/4965d3bf-180d-4830-b20c-251a23a6105d" />
